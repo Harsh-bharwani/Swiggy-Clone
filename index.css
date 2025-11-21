@@ -1,0 +1,8 @@
+.cards-section{
+    display: grid;
+    grid-template-columns: 3fr 3fr 3fr 3fr;
+}
+.search-section{
+    padding: 30px;
+    text-align:  center;
+}
